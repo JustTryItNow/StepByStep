@@ -2,7 +2,7 @@
 
 ## 学习内容
 
-- [ ] [学会使用githu以及git命令](https://www.bilibili.com/video/av10475153?from=search&seid=4078415991159909561)
+- [ ] [学会使用github以及git命令](https://www.bilibili.com/video/av10475153?from=search&seid=4078415991159909561)
 - [ ] [学会使用markdown](https://www.bilibili.com/video/av8819726?from=search&seid=1494804976899616487)
 - [ ] [c入门](https://www.bilibili.com/video/av27744141?from=search&seid=1876151959315308830)
 
