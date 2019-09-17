@@ -6,6 +6,10 @@
 - [ ] [学会使用markdown](https://www.bilibili.com/video/av8819726?from=search&seid=1494804976899616487)
 - [ ] [c入门](https://www.bilibili.com/video/av27744141?from=search&seid=1876151959315308830)
 
+## 如何查资料
++ 百度
++ CSDN
++ 知乎
 
 ## 代码的基本要求
 代码不仅要正确运行，还要符合规范
