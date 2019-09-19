@@ -7,7 +7,7 @@
 - [ ] [学会使用markdown](https://www.bilibili.com/video/av8819726?from=search&seid=1494804976899616487)
 - [ ] [hugo建立github博客](https://www.bilibili.com/video/av51574688?from=search&seid=12825493267251244618)
    - [推荐主题](https://github.com/olOwOlo/hugo-theme-even/blob/master/README-zh.md)
-   - [我的blog](www.zhouzaida.tech)
+   - [我的blog](https://www.zhouzaida.tech)
 - [ ] [c入门](https://www.bilibili.com/video/av27744141?from=search&seid=1876151959315308830)
 - [ ] [Java入门](https://www.bilibili.com/video/av11361088?from=search&seid=561384665972339325)
 
