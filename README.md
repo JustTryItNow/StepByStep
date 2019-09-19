@@ -6,8 +6,15 @@
 - [ ] [学会使用github以及git命令](https://www.bilibili.com/video/av10475153?from=search&seid=4078415991159909561)
 - [ ] [学会使用markdown](https://www.bilibili.com/video/av8819726?from=search&seid=1494804976899616487)
 - [ ] [hugo建立github博客](https://www.bilibili.com/video/av51574688?from=search&seid=12825493267251244618)
+   - [推荐主题](https://github.com/olOwOlo/hugo-theme-even/blob/master/README-zh.md)
+   - [我的blog](www.zhouzaida.tech)
 - [ ] [c入门](https://www.bilibili.com/video/av27744141?from=search&seid=1876151959315308830)
 - [ ] [Java入门](https://www.bilibili.com/video/av11361088?from=search&seid=561384665972339325)
+
+
+## 建议
++ 代码放在github上
++ 笔记放在blog上
 
 ## 如何查资料
 + 百度
