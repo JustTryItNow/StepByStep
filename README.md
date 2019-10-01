@@ -1,17 +1,18 @@
 # StepByStep
 编程入门最有效的方法是跟着书或者视频一行一行地敲代码   
-编程进阶最有效的方法是到相应的论坛中浏览高关注度的和话题
+编程进阶最有效的方法是到相应的论坛中浏览高关注度的帖子
 
-## 学习内容
-
+## 工具
 - [ ] [学会使用github以及git命令](https://www.bilibili.com/video/av10475153?from=search&seid=4078415991159909561)
 - [ ] [学会使用markdown](https://www.bilibili.com/video/av8819726?from=search&seid=1494804976899616487)
 - [ ] [hugo建立github博客](https://www.bilibili.com/video/av51574688?from=search&seid=12825493267251244618)
    - [推荐主题](https://github.com/olOwOlo/hugo-theme-even/blob/master/README-zh.md)
    - [我的blog](https://www.zhouzaida.tech)
+
+## 学习内容
 - [ ] [c入门](https://www.bilibili.com/video/av27744141?from=search&seid=1876151959315308830)
 - [ ] [Java入门](https://www.bilibili.com/video/av11361088?from=search&seid=561384665972339325)
-
+-
 
 ## 建议
 + 代码放在github上
