@@ -9,10 +9,24 @@
    - [推荐主题](https://github.com/olOwOlo/hugo-theme-even/blob/master/README-zh.md)
    - [我的blog](https://www.zhouzaida.tech)
 
-## 学习内容
+## 计算机理论基础课
++ 计算机导论
++ 数据结构
++ 数据库
++ 计算机组成原理
++ 编译原理
++ 操作系统
++ 计算机网络
+
+## 编程入门
+### c
 - [ ] [c入门](https://www.bilibili.com/video/av27744141?from=search&seid=1876151959315308830)
+
+### Java
 - [ ] [Java入门](https://www.bilibili.com/video/av11361088?from=search&seid=561384665972339325)
--
+
+## 编程进阶
+- [ ] 设计模式
 
 ## 建议
 + 代码放在github上
